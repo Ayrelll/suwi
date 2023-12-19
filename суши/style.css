@@ -1,0 +1,50 @@
+body {
+    background-color: #e9dada;
+}
+
+ul {
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgoldenrod;
+    text-decoration: none;
+}
+
+li {
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+
+p {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+h4 {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+input {
+    color: #aa2727;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+img {
+    border: 5px solid #aa2727;
+}
+img {
+    max-width: 300px;
+    max-height: 200px;
+  }
